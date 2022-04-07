@@ -1,6 +1,6 @@
 - 👋 Olá, Sou o Guilherme Dias Ferreira
-- 👀 Tenho interesse em trabalhar com Java | Spring 
-- 📚 Atualmente estou estudando Estruturas de Dados com Java
+- 👀 Tenho interesse em trabalhar com as tecnologias Java | Spring | Angular 
+- 📚 Atualmente estou estudando.
 
 
 <!---
